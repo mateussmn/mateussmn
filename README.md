@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 
-- 🌱 I’m currently learning **JavaScript, Ruby on rails**
-
 - 📫 How to reach me **mateussilvamn18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
