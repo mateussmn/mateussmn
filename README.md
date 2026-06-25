@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mateus</h1>
+<h1 align="center">Oi 👋, me chamo Mateus</h1>
 
-<h3 align="left">Resido em São Paulo, Brasil, e concluí um bootcamp intensivo de desenvolvimento web na Le Wagon, onde adquiri novas habilidades e aprofundei conhecimentos anteriores com foco na formação como desenvolvedor full stack. Durante o programa, trabalhei em projetos práticos que reforçaram minha capacidade de construir aplicações web completas, do back-end ao front-end, utilizando tecnologias modernas e boas práticas de desenvolvimento.</h3>
+<h3 align="left">Vivo em São Paulo, Brasil, e concluí um bootcamp intensivo de desenvolvimento web na Le Wagon, onde adquiri novas habilidades e aprofundei conhecimentos anteriores com foco na formação como desenvolvedor full stack. Durante o programa, trabalhei em projetos práticos que reforçaram minha capacidade de construir aplicações web completas, do back-end ao front-end, utilizando tecnologias modernas e boas práticas de desenvolvimento.</h3>
 
 - 📫 How to reach me **mateussilvamn18@gmail.com**
 
