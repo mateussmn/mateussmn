@@ -1,4 +1,7 @@
-<h3 align="left">Vivo em São Paulo, Brasil, e concluí um bootcamp intensivo de desenvolvimento web na Le Wagon, onde adquiri novas habilidades e aprofundei conhecimentos anteriores com foco na formação como desenvolvedor full stack. Durante o programa, trabalhei em projetos práticos que reforçaram minha capacidade de construir aplicações web completas, do back-end ao front-end, utilizando tecnologias modernas e boas práticas de desenvolvimento.</h3>
+<h1>Oi, eu sou o Mateus!</h1>
+
+<h3 align="left">Desenvolvedor Full Stack formado pelo bootcamp da Le Wagon e estudante de Análise e Desenvolvimento de Sistemas na UNINTER. Possuo experiência prática na criação de aplicações web completas, do back-end ao front-end, utilizando tecnologias modernas e boas práticas de desenvolvimento.
+</h3>
 
 - 📫 How to reach me **mateussilvamn18@gmail.com**
 
