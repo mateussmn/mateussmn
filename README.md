@@ -1,28 +1,76 @@
-<h1 align="center">👋 Oi, eu sou o Mateus!</h1>
+<h1 align="center">👋 Olá, eu sou o Mateus Silva</h1>
 
-<h3 align="left">Desenvolvedor Full Stack formado pelo bootcamp da Le Wagon e estudante de Análise e Desenvolvimento de Sistemas na UNINTER. Possuo experiência prática na criação de aplicações web completas, do back-end ao front-end, utilizando tecnologias modernas e boas práticas de desenvolvimento.
-</h3>
+<p align="center">
+  Desenvolvedor Full Stack • Python • React • Next.js • IA • Ruby on Rails
+</p>
 
-📫 Contato: **mateussilvamn18@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateussmn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mateussilvamn18@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 📊 Estatísticas
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussmn&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+## 💻 Sobre mim
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mateussmn&theme=tokyonight"/>
-</div>
+🎓 Formado em Informática para Negócios pela FATEC.
+
+🎓 Desenvolvedor Full Stack formado pelo bootcamp Le Wagon.
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNINTER.
+
+💡 Tenho experiência no desenvolvimento de aplicações web completas utilizando Python, Django, Ruby on Rails, React, Next.js, JavaScript e SQL.
+
+---
 
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nextjs,javascript,typescript,html,css,ruby,rails,django,mysql,postgres,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,js,ts,html,css,ruby,rails,mysql,postgres,git,github,vscode&perline=5"/>
 </p>
 
-<h3 align="left">Me adicione a sua rede:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mateussmn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateussmn/" height="30" width="40" /></a>
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mateussmn&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussmn&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mateussmn&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+🚀 Travely  
+Planejamento inteligente de viagens utilizando IA.
+
+🤖 Chatbot com IA  
+Assistente utilizando OpenAI.
+
+📊 Análise de Cancelamento de Clientes  
+Projeto de análise de dados com Python.
+
+⚙️ ETL Reutilizável  
+Pipeline reutilizável para tratamento de dados.
+
+📈 Análise de Vendas  
+Dashboard e análise utilizando Python.
+
+---
+
+## 📫 Contato
+
+📧 **mateussilvamn18@gmail.com**
+
+💼 **LinkedIn**
+https://linkedin.com/in/mateussmn
