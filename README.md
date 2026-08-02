@@ -20,11 +20,11 @@
 
 ## 💻 Sobre mim
 
-🎓 Formado em Informática para Negócios pela FATEC.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNINTER.
 
 🎓 Desenvolvedor Full Stack formado pelo bootcamp Le Wagon.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNINTER.
+🎓 Formado em Informática para Negócios pela FATEC.
 
 💡 Tenho experiência no desenvolvimento de aplicações web completas utilizando Python, Django, Ruby on Rails, React, Next.js, JavaScript e SQL.
 
