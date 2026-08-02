@@ -16,9 +16,15 @@
   <img src="https://streak-stats.demolab.com?user=mateussmn&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateussmn&theme=tokyo-night"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussmn&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,nextjs,javascript,typescript,html,css,ruby,rails,django,mysql,postgres,git,github,vscode" />
+</p>
 
 <h3 align="left">Me adicione a sua rede:</h3>
 <p align="left">
