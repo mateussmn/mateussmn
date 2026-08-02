@@ -16,9 +16,10 @@
   <img src="https://streak-stats.demolab.com?user=mateussmn&theme=tokyonight"/>
 </div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussmn&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussmn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
 
 ## 🚀 Tecnologias
 
