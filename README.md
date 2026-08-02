@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+
+## 📫 Contato
+  
   <a href="https://www.linkedin.com/in/mateussmn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -48,29 +51,3 @@
 </p>
 
 ---
-
-## 📌 Projetos em destaque
-
-🚀 Travely  
-Planejamento inteligente de viagens utilizando IA.
-
-🤖 Chatbot com IA  
-Assistente utilizando OpenAI.
-
-📊 Análise de Cancelamento de Clientes  
-Projeto de análise de dados com Python.
-
-⚙️ ETL Reutilizável  
-Pipeline reutilizável para tratamento de dados.
-
-📈 Análise de Vendas  
-Dashboard e análise utilizando Python.
-
----
-
-## 📫 Contato
-
-📧 **mateussilvamn18@gmail.com**
-
-💼 **LinkedIn**
-https://linkedin.com/in/mateussmn
